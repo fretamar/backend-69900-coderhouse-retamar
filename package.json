@@ -1,0 +1,22 @@
+{
+  "name": "jsbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server-express.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server-express.js",
+    "dev": "nodemon src/server-express.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fretamar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "moment": "^2.30.1",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

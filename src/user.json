@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Martín",
+        "surname": "Ramirez",
+        "age": 25,
+        "country": "Argentina",
+        "username": "mramirez"
+    },
+    {
+        "name": "Agustin",
+        "surname": "Ubieta",
+        "age": 18,
+        "country": "Argentina",
+        "username": "aubieta"
+    },
+    {
+        "name": "Micaela",
+        "surname": "Madani",
+        "age": 15,
+        "country": "Argentina",
+        "username": "mmadani"
+    },
+    {
+        "name": "Veronica",
+        "surname": "Sosa",
+        "age": 32,
+        "country": "Venezuela",
+        "username": "vsosa"
+    },
+    {
+        "name": "Hugo",
+        "surname": "Gomez",
+        "age": 44,
+        "country": "Uruguay",
+        "username": "hgomez"
+    },  
+    {
+        "name": "Valentina",
+        "surname": "León",
+        "age": 23,
+        "country": "Venezuela",
+        "username": "vleon"
+    },
+    {
+        "name": "Matías",
+        "surname": "Díaz",
+        "age": 12,
+        "country": "Argentina",
+        "username": "mdiaz"
+    }
+]
