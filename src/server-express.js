@@ -1,6 +1,6 @@
 import express from 'express';
 import { products } from './products.js';
-import { UserManager } from '../manager/user.manager.js';
+import { UserManager } from './manager/user.manager.js';
 
 const userManager = new UserManager('./users.json');
 
